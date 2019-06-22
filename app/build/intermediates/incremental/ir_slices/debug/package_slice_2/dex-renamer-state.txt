@@ -1,0 +1,4 @@
+#Thu Dec 13 22:08:38 CET 2018
+base.0=D\:\\Dokumenty\\Android\\Google Developers Training\\android-fundamentals-master\\MyApplication\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex
