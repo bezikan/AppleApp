@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Dokumenty\\Android\\Google Developers Training\\android-fundamentals-master\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ur\\values-ur.xml",
+            "outputFile": "C:\\Users\\ayako\\Desktop\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ur\\values-ur.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Anna\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3cf6fcc326923ad75778ff581feba38c\\res\\values-ur\\values-ur.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,215,321,430,516,620,740,816,892,977,1085,1194,1296,1407,1507,1615,1780,1878",
-                        "endColumns": "109,105,108,85,103,119,75,75,84,107,108,101,110,99,107,164,97,79",
-                        "endOffsets": "210,316,425,511,615,735,811,887,972,1080,1189,1291,1402,1502,1610,1775,1873,1953"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Anna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\df145c66e958fa201c8610e8cf73f5ba\\res\\values-ur\\values-ur.xml",
+                    "source": "C:\\Users\\ayako\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8f4a6921b82d8457624eaacdd253e96e\\res\\values-ur\\values-ur.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "1958",
                         "endColumns": "102",
                         "endOffsets": "2056"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ayako\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\d9e96c3c1c0fcf2fef772c981de05e53\\res\\values-ur\\values-ur.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,215,321,430,516,620,740,816,892,977,1085,1194,1296,1407,1507,1615,1780,1878",
+                        "endColumns": "109,105,108,85,103,119,75,75,84,107,108,101,110,99,107,164,97,79",
+                        "endOffsets": "210,316,425,511,615,735,811,887,972,1080,1189,1291,1402,1502,1610,1775,1873,1953"
                     }
                 }
             ]

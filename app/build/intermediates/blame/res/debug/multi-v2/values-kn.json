@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Dokumenty\\Android\\Google Developers Training\\android-fundamentals-master\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn\\values-kn.xml",
+            "outputFile": "C:\\Users\\ayako\\Desktop\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn\\values-kn.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Anna\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\df145c66e958fa201c8610e8cf73f5ba\\res\\values-kn\\values-kn.xml",
+                    "source": "C:\\Users\\ayako\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8f4a6921b82d8457624eaacdd253e96e\\res\\values-kn\\values-kn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Anna\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3cf6fcc326923ad75778ff581feba38c\\res\\values-kn\\values-kn.xml",
+                    "source": "C:\\Users\\ayako\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\d9e96c3c1c0fcf2fef772c981de05e53\\res\\values-kn\\values-kn.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

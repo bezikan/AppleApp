@@ -1,107 +1,107 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:2:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3cf6fcc326923ad75778ff581feba38c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f1bd846119bbea14c083312ce807fee4\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6011f49e0097f979d2eac6630c2e0b2e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\abea2eebeaef0bdbcd09e1e697e7a17c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8de503ccfbbfa8f2a0283eee8c9015af\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\41e6d034d7dbcc0c1e4c7a05190fcbd2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5c04b0eb57ca392d9ff34737f64d0bdd\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\df145c66e958fa201c8610e8cf73f5ba\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1e0db7f4aef8d8f66c26f2d792e0aae6\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1951b2d07a79582b8a2dfb079b2412e3\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b40b6b948583bb8687bf98ad3afe5ed6\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dbecd8640d1821dbc64b5ff1ad6e9780\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:2:1-22:12
+ADDED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d9e96c3c1c0fcf2fef772c981de05e53\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b92dc14ac1f260276a534adf21afc58a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b37f405baa5cdcfdf835d788be4a0c38\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\55eb64284ad4a831a7309d96d570ab7c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e4bdce6721a092fa6f830bfcd94488f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e84b6e04ca5de2a9085006e37375bc55\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4d51bc98dadbf3f9f01a7feb4cb1db93\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8f4a6921b82d8457624eaacdd253e96e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5ae0782e1ad6adfdd80068fd0a0ffc39\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bebe4e34227323720c1b3a070d0e4a1e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9238cfdb78682b6557143db593da1629\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b43a0dc6342d8c3c2b858dd31b89c50d\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:2:1-22:12
 	package
-		ADDED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:3:5-45
-		INJECTED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml
-		ADDED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:2:1-22:12
-		INJECTED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml
-		ADDED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:2:1-22:12
-		INJECTED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:5:5-20:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f1bd846119bbea14c083312ce807fee4\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f1bd846119bbea14c083312ce807fee4\AndroidManifest.xml:9:5-20
+ADDED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b92dc14ac1f260276a534adf21afc58a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b92dc14ac1f260276a534adf21afc58a\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.example.anna.myapplication.MenuActivity
-ADDED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:12:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:16:27-74
 activity#com.example.anna.myapplication.PotwierdzenieActivity
-ADDED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:19:9-68
+ADDED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:19:9-68
 	android:name
-		ADDED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml:19:19-56
+		ADDED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml:19:19-56
 uses-sdk
-INJECTED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml
-INJECTED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3cf6fcc326923ad75778ff581feba38c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3cf6fcc326923ad75778ff581feba38c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f1bd846119bbea14c083312ce807fee4\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f1bd846119bbea14c083312ce807fee4\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6011f49e0097f979d2eac6630c2e0b2e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6011f49e0097f979d2eac6630c2e0b2e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\abea2eebeaef0bdbcd09e1e697e7a17c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\abea2eebeaef0bdbcd09e1e697e7a17c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8de503ccfbbfa8f2a0283eee8c9015af\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8de503ccfbbfa8f2a0283eee8c9015af\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\41e6d034d7dbcc0c1e4c7a05190fcbd2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\41e6d034d7dbcc0c1e4c7a05190fcbd2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5c04b0eb57ca392d9ff34737f64d0bdd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5c04b0eb57ca392d9ff34737f64d0bdd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\df145c66e958fa201c8610e8cf73f5ba\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\df145c66e958fa201c8610e8cf73f5ba\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1e0db7f4aef8d8f66c26f2d792e0aae6\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1e0db7f4aef8d8f66c26f2d792e0aae6\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1951b2d07a79582b8a2dfb079b2412e3\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1951b2d07a79582b8a2dfb079b2412e3\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b40b6b948583bb8687bf98ad3afe5ed6\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b40b6b948583bb8687bf98ad3afe5ed6\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dbecd8640d1821dbc64b5ff1ad6e9780\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Anna\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dbecd8640d1821dbc64b5ff1ad6e9780\AndroidManifest.xml:20:5-44
-INJECTED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml
-INJECTED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d9e96c3c1c0fcf2fef772c981de05e53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d9e96c3c1c0fcf2fef772c981de05e53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b92dc14ac1f260276a534adf21afc58a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b92dc14ac1f260276a534adf21afc58a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b37f405baa5cdcfdf835d788be4a0c38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b37f405baa5cdcfdf835d788be4a0c38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\55eb64284ad4a831a7309d96d570ab7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\55eb64284ad4a831a7309d96d570ab7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e4bdce6721a092fa6f830bfcd94488f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e4bdce6721a092fa6f830bfcd94488f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e84b6e04ca5de2a9085006e37375bc55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e84b6e04ca5de2a9085006e37375bc55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4d51bc98dadbf3f9f01a7feb4cb1db93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4d51bc98dadbf3f9f01a7feb4cb1db93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8f4a6921b82d8457624eaacdd253e96e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8f4a6921b82d8457624eaacdd253e96e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5ae0782e1ad6adfdd80068fd0a0ffc39\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5ae0782e1ad6adfdd80068fd0a0ffc39\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bebe4e34227323720c1b3a070d0e4a1e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bebe4e34227323720c1b3a070d0e4a1e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9238cfdb78682b6557143db593da1629\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9238cfdb78682b6557143db593da1629\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b43a0dc6342d8c3c2b858dd31b89c50d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ayako\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b43a0dc6342d8c3c2b858dd31b89c50d\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml
-		ADDED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml
-		ADDED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Dokumenty\Android\Google Developers Training\android-fundamentals-master\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ayako\Desktop\MyApplication\app\src\main\AndroidManifest.xml
